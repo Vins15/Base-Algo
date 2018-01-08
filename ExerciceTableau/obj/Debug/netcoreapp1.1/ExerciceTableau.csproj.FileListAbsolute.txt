@@ -1,0 +1,9 @@
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\bin\Debug\netcoreapp1.1\ExerciceTableau.deps.json
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\bin\Debug\netcoreapp1.1\ExerciceTableau.runtimeconfig.json
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\bin\Debug\netcoreapp1.1\ExerciceTableau.runtimeconfig.dev.json
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\bin\Debug\netcoreapp1.1\ExerciceTableau.dll
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\bin\Debug\netcoreapp1.1\ExerciceTableau.pdb
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\obj\Debug\netcoreapp1.1\ExerciceTableau.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\obj\Debug\netcoreapp1.1\ExerciceTableau.AssemblyInfo.cs
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\obj\Debug\netcoreapp1.1\ExerciceTableau.dll
+c:\users\temp\documents\visual studio 2017\Projects\ExerciceTableau\ExerciceTableau\obj\Debug\netcoreapp1.1\ExerciceTableau.pdb
